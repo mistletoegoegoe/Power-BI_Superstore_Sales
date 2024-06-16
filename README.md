@@ -5,6 +5,9 @@ Superstore is an global retail company. The head of Sales department wanted to k
 
 
 ## 2. Business analysis using Design thinking 
+### 2.1 Empathise
+<img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/2a1604c6-fd0e-41aa-9ae2-5fa3da12bfe2">
+
 ## 3. Data dictionary
 There are 3 data tables: 
 - Orders: it was the fact table that contained all relevant information about each order_ID. It comprised time-related attributes, customer's information, market area, product details
