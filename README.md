@@ -8,6 +8,15 @@ Superstore is an global retail company. The head of Sales department wanted to k
 ### 2.1 Empathise
 <img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/2a1604c6-fd0e-41aa-9ae2-5fa3da12bfe2">
 
+### 2.2 Define
+<img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/8a408a6f-2f37-496c-82fd-5d3af06ba738">
+
+### 2.3 Ideate
+<img width="677" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/65a8c55b-8846-466b-bc14-f179f4584ac7">
+
+### 2.4 Prototype and review
+<img width="680" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/466f9474-aa0d-4702-9b74-14e48d48af59">
+
 ## 3. Data dictionary
 There are 3 data tables: 
 - Orders: it was the fact table that contained all relevant information about each order_ID. It comprised time-related attributes, customer's information, market area, product details
