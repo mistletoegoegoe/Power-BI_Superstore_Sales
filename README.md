@@ -86,5 +86,12 @@ The value of returned order showed a slight upward trend over years with the ave
 B2C segment is the most significant contributer to company's revenue (51%), followed by Corporate (30%) and Home Office. However, in recent years, the sales of these groups had a slight downward trend. Home Office tended to increase in the structure of total revenue in 2014. 
 
 ### Market
+Top three market that generated the highest revenue are  APAC (3.59M, accounted for 28.36%), EU (2.94M accounted for 23.24%) and US (2.3M  accounted for 18.17%). The ratio of three categories was relatively balanced across most markets, but the Technology still hold the largest share. 
+
+The most common product in these markets were Bookcase, Phone, Chair. However, in EU market, Copier uniquely generated the highest revenue. 
+
+In terms of CAGR, Canada witnessed the strongest growth (28.45%), followed by Africa (22.14%), though these were two markets with the lowest revenue. Despite one of the three largest markets, US experienced the lowest growth, approximately 10%. 
+
+By country, US generated the highest amount of revenue (2.2M), equals 2.4 times the second highest country. 
 ### Product
 ## 4. Recommendations
