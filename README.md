@@ -71,5 +71,7 @@ Sales per order = Total sales / Total orders
 Sales per order = round((divide(sum(Orders[Sales]),DISTINCTCOUNT(Orders[Order ID]))),2)
 ```
 ## 2. Dashboard
+<img width="671" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/ab3f18bc-82e4-4e7f-bd6c-e5fee5262825">
+
 ## 3. Insights
 ## 4. Recommendations
