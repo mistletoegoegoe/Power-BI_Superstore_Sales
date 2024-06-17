@@ -81,8 +81,9 @@ Gross Profit Margin remained stable around 11% throughout 4 years.
 
 Cart value did not vary much across the years, while the number of order increased significantly over years (1.7 times in 2014), which contributed to the overall sales of the company. 
 
-Giá trị của các đơn hàng hoàn trả có xu hướng tăng nhẹ qua các năm với giá trị trung bình thường cao gấp 1.3 lần các đơn hàng thành công. Tập trung vào các thị trường như APAC (32%), US(22%), EU(25%), LATAM(20%)
+The value of returned order showed a slight upward trend over years with the average value being 1.3 times of successful orders. The significant markets were APAC (32%), US (22%), EU (25%), and LATAM (20%).
 
+B2C segment is the most significant contributer to company's revenue (51%), followed by Corporate (30%) and Home Office. However, in recent years, the sales of these groups had a slight downward trend. Home Office tended to increase in the structure of total revenue in 2014. 
 
 ### Market
 ### Product
