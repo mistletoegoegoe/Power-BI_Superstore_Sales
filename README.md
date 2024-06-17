@@ -62,8 +62,14 @@ There are 3 data tables:
 | Order ID | Unique ID of the order                |
 | Market   | The market that had returned order    |
 # II. Data visualisation
-## 1. Data cleaning
-## 2. DAX
-## 3. Dashboard
-## 4. Insights
-## 5. Recommendations
+## 1. DAX
+By the given data, there is no available Sales per order metric, which was necessary to provide an overview about Sales situation. Thus, a measure was created to calculate this indicator. The calculation would be implemented in DAX.
+### Sales per order formula:
+Sales per order = Total sales / Total orders
+### DAX code
+```
+Sales per order = round((divide(sum(Orders[Sales]),DISTINCTCOUNT(Orders[Order ID]))),2)
+```
+## 2. Dashboard
+## 3. Insights
+## 4. Recommendations
