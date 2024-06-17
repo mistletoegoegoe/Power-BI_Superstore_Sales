@@ -92,6 +92,10 @@ The most common product in these markets were Bookcase, Phone, Chair. However, i
 
 In terms of CAGR, Canada witnessed the strongest growth (28.45%), followed by Africa (22.14%), though these were two markets with the lowest revenue. Despite one of the three largest markets, US experienced the lowest growth, approximately 10%. 
 
-By country, US generated the highest amount of revenue (2.2M), equals 2.4 times the second highest country. 
+By country, US generated the highest amount of revenue (2.2M), equals 2.4 times that of the second highest country. 
 ### Product
+All product categories were seasonal, with the total sales increased significantly toward the end of the year. 
+
+Technology and Office Supplies had the highest percentage of Gross Profit Margin (13.99% and 13.69%, respectively), which is double that of the Furniture category with a margin of only 6.94%.
+
 ## 4. Recommendations
