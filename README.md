@@ -105,3 +105,8 @@ Sub-categories that had the highest Profit Margin were: Paper (24.24%), Labels (
 In particular, Tables had a negative Profit Margin (-8.46%) despite having fairly high revenue (749K).
 
 ## 4. Recommendations
+- Need deeper research on the reason why total sales had tendency to decrease sharply in the first quarter each year, to propose the appropriate business strategy.
+- Continue to develop in major markets (APAC, EU), while expanding and researching on high-potential markets such as Canada and Africa. The US, despite one of the largest market, it was required a new business strategy to push the sales.
+- Intensify marketing campaigns in third and forth quarters, most focus on potential product (with low sales but high profit margin) such as Accessories, Art, Papers, Evelopes besides Phones, Bookcases, Copier, Chair groups which were company's strength.
+- Bên cạnh đó, đẩy mạnh các hoạt động upsale, cross-sale để tăng giá trị đơn hàng.
+- In addition, enhance upsale and cross-sale to increase cart value
