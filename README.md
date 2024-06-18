@@ -98,4 +98,10 @@ All product categories were seasonal, with the total sales increased significant
 
 Technology and Office Supplies had the highest percentage of Gross Profit Margin (13.99% and 13.69%, respectively), which is double that of the Furniture category with a margin of only 6.94%.
 
+Four sub-categories that were the most significant revenue contributors were: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcase(1.4M). 
+
+Sub-categories that had the highest Profit Margin were: Paper (24.24%), Labels (20.45%), Envelopes (17.32%), Accessories (17.29%), Copier (17.13%). However, only Copier and Accessories had high revenue. The remaining products were among the five with the lowest revenue in the entire company.
+
+In particular, Tables had a negative Profit Margin (-8.46%) despite having fairly high revenue (749K).
+
 ## 4. Recommendations
